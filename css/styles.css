@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+.column {
+    float: left;
+    width: 33.3%;
+    background-color: paleturquoise;
+    padding: 10px;
+    border: 1px solid #000;
+}
